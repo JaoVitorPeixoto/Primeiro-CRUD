@@ -7,6 +7,8 @@
    * **_D_** elete  - Deletar dados da tabela.
    
  * tudo isso através de duas janelas criadas utilizando **_Java swing_**, uma utilizada junto de uma **JTable** que continha todos os dados da tabela, e a outra feita para inserir novos dados à tabela e também editá-los.
+    * Clique [aqui](https://github.com/JaoVitorPeixoto/Primeiro-CRUD/tree/main/CRUD/src) para ir à pasta **_"src"_**, pasta principal do projeto. 
+    * Clique [aqui](https://github.com/JaoVitorPeixoto/Primeiro-CRUD/tree/main/Dump_cadastro) para ir ao dump do banco de dados utilizado nesse projeto.
  
  ---
  1. [Janela_Principal](https://github.com/JaoVitorPeixoto/Primeiro-CRUD/blob/main/CRUD/src/Janelas/Janela_Principal.java) possui uma **JTable** que contém um ResultSet da tabela do banco, e nessa janela é tem botões para inserir, editar ou deletar os dados da tabela.
